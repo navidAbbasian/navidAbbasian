@@ -1,6 +1,6 @@
 
 ### Hi I'm Navid 👋
-I have 26 years old, Graduated in IT major and Self Studied Android Development. <br /> interested in teamwork and having new team experiences and ideas,
+Born In 1996, Graduated in IT major and Self Studied Android Development. <br /> interested in teamwork and having new team experiences and ideas,
 nonstopable in researching and learning ...
 
 - 🔭 I’m currently working on own Android projects
