@@ -1,6 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(https://github.com/navidAbbasian)
+
 <h1 align="center">Hi 👋, I'm Navid</h1>
 <h3 align="center">Mobile / Web Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/51839181/185767009-04421265-3c0d-48e5-bb5c-d11c8b14bd7d.gif")
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/51839181/185767009-04421265-3c0d-48e5-bb5c-d11c8b14bd7d.gif">
 
 
 
