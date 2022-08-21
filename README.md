@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Navid</h1>
 <h3 align="center">Mobile / Web Developer</h3>
+<p align="center">Born In 1996, Graduated in IT major and Studied Android Development. interested in teamwork and having new team experiences and ideas,
+unnstopable in researching and learning ... </p>
 
 ---
 
