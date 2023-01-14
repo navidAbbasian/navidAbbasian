@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![20_Navan_4](https://user-images.githubusercontent.com/51839181/212500103-4c77b5cc-0bfb-4dc7-98a8-25cedab6e9e5.jpeg)
 
 <h1 align="center">Hi 👋, I'm Navid</h1>
 <h3 align="center">Mobile / Web Developer</h3>
