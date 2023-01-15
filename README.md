@@ -1,4 +1,6 @@
-![20_Navan_4](https://user-images.githubusercontent.com/51839181/212500103-4c77b5cc-0bfb-4dc7-98a8-25cedab6e9e5.jpeg)
+![20_Navan_4](https://user-images.githubusercontent.com/51839181/212539538-9c332967-479f-4cb8-bf4b-aa3b62bdb452.jpg)
+
+
 
 <h1 align="center">Hi 👋, I'm Navid</h1>
 <h3 align="center">Mobile / Web Developer</h3>
