@@ -20,9 +20,9 @@ unnstopable in researching and learning ... </p>
 
 <p align="left"> <a href="https://twitter.com/navid_abn" target="blank"><img src="https://img.shields.io/twitter/follow/navid_abn?logo=twitter&style=for-the-badge" alt="navid_abn" /></a> </p>
 
-- 🔭 I’m currently working on [Ako Team Website](https://github.com/navidAbbasian)
+- 🔭 I’m currently working on [Laravel Blog](https://github.com/navidAbbasian/LaravelBlog)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel 10**
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://navidabbasian.github.io/)
 
