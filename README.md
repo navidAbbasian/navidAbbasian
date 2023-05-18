@@ -22,7 +22,7 @@ unnstopable in researching and learning ... </p>
 
 - 🔭 I’m currently working in [Livekala Team](https://github.com/orgs/livekala/teams/livekala)
 
-- 🌱 I’m currently learning **curl**
+- 🌱 I’m currently learning **docker and microservice architecture**
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://navidabbasian.github.io/)
 
