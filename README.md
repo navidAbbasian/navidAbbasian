@@ -1,4 +1,3 @@
-![20_Navan_4](https://user-images.githubusercontent.com/51839181/212539538-9c332967-479f-4cb8-bf4b-aa3b62bdb452.jpg)
 
 
 
