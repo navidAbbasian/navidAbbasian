@@ -11,10 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/51839181/185767009-04421265-3c0d-48e5-bb5c-d11c8b14bd7d.gif">
 
 
-
-
-
-
+<br>
 
 - 🔭 I’m currently working in [Livekala Team](https://github.com/orgs/livekala/teams/livekala)
 
