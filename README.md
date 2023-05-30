@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="720" src="navan-baner-new-edit.gif">
+<img align="center" alt="skill gif" width="1170" src="navan-baner-new-edit.gif"><br>
 
 <h1 align="center">Hi 👋, I'm Navid</h1>
 <h3 align="center">Mobile / Web Developer</h3>
