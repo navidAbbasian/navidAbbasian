@@ -2,7 +2,7 @@
 <img align="center" alt="skill gif" width="1170" src="navan-baner-new-edit.gif"><br>
 
 <h1 align="center">Hi 👋, I'm Navid</h1>
-<h3 align="center">Mobile / Web Developer</h3>
+<h3 align="center">back-end Developer</h3>
 <p align="center">Born in 1996, Graduated in IT major, Full time Laravel developer.</p>
 
 ---
