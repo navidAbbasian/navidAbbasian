@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently working in [Livekala Team](https://github.com/orgs/livekala/teams/livekala)
+- 🔭 I’m currently working in [Ako Team](https://github.com/orgs/Akocode/teams/akoteam)
 
 - 🌱 I’m currently learning **docker and microservice architecture**
 
