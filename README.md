@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working in [Ako Team](https://github.com/orgs/Akocode/teams/akoteam)
 
-- 🌱 I’m currently learning **docker and microservice architecture**
+- 🌱 I’m currently learning **docker and SSO**
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://navidabbasian.github.io/)
 
