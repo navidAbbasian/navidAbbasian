@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently working in [Ako Team](https://github.com/orgs/Akocode/teams/akoteam)
+- 🔭 I’m currently working in [Ako Code](https://github.com/orgs/Akocode) and [Nextpay](https://github.com/orgs/nextpay-ir)
 
 - 🌱 I’m currently learning **Network**
 
