@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Navid</h1>
 <h3 align="center">back-end Developer</h3>
-<p align="center">Born in 1996, Graduated in IT major, Full time Laravel developer.</p>
+<p align="center">Born in 1996, Graduated in IT major, Full time Back-End developer.</p>
 
 ---
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://navidabbasian.github.io/)
 
-- 💬 Ask me about **Programing And Cryptocurrency**
+- 💬 Talk with me about **Programing, Gaming and Cryptocurrency**
 
 - 📫 How to reach me **abbasian.navid@gmail.com**
 
